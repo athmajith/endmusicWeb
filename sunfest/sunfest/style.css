@@ -1985,9 +1985,177 @@ video {
     content: "03.";
 }
 
+@media (min-width: 1280px) and (max-width: 1281px){
+     .content-section{
+        margin-top: 10%;
+    }
+}
 
+@media (min-width: 771px) and (max-width: 800px){
+    .entry-meta-date-index{
+        margin-left: 32% !important;
+        margin-top: -40px !important;
+    }
 
+    .entry-footer-index{
+        margin-left: 3% !important;
+    }
 
+    video {
+        padding-bottom: 200px;
+    }
+
+    .content-section{
+        margin-top: 10%;
+    }
+}
+
+@media (min-width: 741px) and (max-width: 770px){
+    .entry-meta-date-index{
+        margin-left: 32% !important;
+        margin-top: -40px !important;
+    }
+
+    .entry-footer-index{
+        margin-left: 3% !important;
+    }
+}
+
+@media (min-width: 720px) and (max-width: 740px){
+
+    .entry-meta-date-index{
+        margin-left: 25% !important;
+        margin-top: -40px !important;
+    }
+
+    .entry-footer-index{
+        margin-left: 8% !important;
+    }
+
+    .introTxtDiv{
+        background-color: black !important;
+        margin-top: 10%;
+    }
+
+    .hero-content{
+        margin-bottom: -50px;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 640px){
+
+    .entry-meta-date-index{
+        margin-left: 25% !important;
+        margin-top: -40px !important;
+    }
+
+    .entry-footer-index{
+        margin-left: 9% !important;
+    }
+}
+
+@media (min-width: 451px) and (max-width: 480px){
+   
+    .entry-meta-date-index{
+        margin-left: 23% !important;
+        margin-top: -40px !important;
+    }
+
+    .entry-footer-index{
+        margin-left: 10% !important;
+    }
+
+    .introTxtDiv{
+        background-color: black !important;
+        margin-top: 50%;
+        padding-top: 10%;
+    }
+
+    .hero-content{
+        margin-bottom: -50px;
+    }
+}
+
+@media (min-width: 386px) and (max-width: 450px){
+   .entry-header-index{
+        margin-left: -20px;
+    }
+
+    #introTitle{
+        font-size: 110px !important;
+    }
+    
+    .entry-meta-date-index{
+        margin-left: 23% !important;
+        margin-top: -40px !important;
+    }
+
+    .entry-footer-index{
+        margin-left: 10% !important;
+    }
+
+    .introTxtDiv{
+        background-color: black !important;
+        margin-top: 50%;
+        padding-top: 10%;
+    }
+
+    .hero-content{
+        margin-bottom: -50px;
+    }
+}
+
+@media (min-width: 350px) and (max-width: 385px){
+   .entry-header-index{
+        margin-left: -20px;
+    }
+
+    #introTitle{
+        font-size: 100px !important;
+    }
+    
+}
+
+@media (min-width: 319px) and (max-width: 349px){
+    
+    .entry-header-index{
+        margin-left: -30px;
+    }
+
+    #introTitle{
+        font-size: 90px !important;
+    }
+
+    #slideMenu{
+        width: 32%;
+    }
+}
+
+@media (min-width: 319px) and (max-width: 385px){
+    
+    .entry-meta-date-index{
+        margin-left: 18% !important;
+        margin-top: -40px !important;
+    }
+
+    .entry-footer-index{
+        margin-left: 10% !important;
+    }
+
+    .lineup-artists-headline .entry-title h2 {
+        font-size: 44px;
+    }
+
+    .hero-content{
+        margin-bottom: -50px;
+    }
+
+    .introTxtDiv{
+        background-color: black !important;
+        margin-top: 50%;
+        padding-top: 10%;
+    }
+}
 
 
 
